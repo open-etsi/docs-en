@@ -1,0 +1,8 @@
+
+My Book
+=======
+
+The starting page of my book with ``d2lbook``.
+
+.. toctree::
+   get_started
