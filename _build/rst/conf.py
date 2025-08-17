@@ -3,7 +3,7 @@ import sys
 sys.path.insert(0, '..')
 sys.path.insert(0, '.')
 
-project = "Data Generation"
+project = "%writefile cache/index.md"
 copyright = ""
 author = "The contributors"
 release = "0.0.1"
@@ -72,7 +72,7 @@ html_favicon = ''
 html_logo = ''
 
 latex_documents = [
-    (master_doc, "d2lbook.tex", "Data Generation",
+    (master_doc, "d2lbook.tex", "%writefile cache/index.md",
      author, 'manual'),
 ]
 

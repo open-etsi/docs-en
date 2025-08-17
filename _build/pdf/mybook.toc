@@ -1,4 +1,0 @@
-\xpginauxfiletrue 
-\selectlanguage *{english}
-\contentsline {chapter}{\numberline {1}Getting Started}{3}{chapter.1}%
-\xpginauxfilefalse 
