@@ -5,7 +5,7 @@ sys.path.insert(0, '.')
 
 project = "My Book"
 copyright = ""
-author = "Adam Smith, Alex Li"
+author = "The contributors"
 release = "0.0.1"
 
 extensions = ["recommonmark","sphinxcontrib.bibtex","sphinxcontrib.rsvgconverter","sphinx.ext.autodoc","sphinx.ext.viewcode"]
@@ -72,7 +72,7 @@ html_favicon = ''
 html_logo = ''
 
 latex_documents = [
-    (master_doc, "mybook.tex", "My Book",
+    (master_doc, "d2lbook.tex", "My Book",
      author, 'manual'),
 ]
 
