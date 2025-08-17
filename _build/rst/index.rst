@@ -3,7 +3,9 @@ Data Generation
 ===============
 
 .. toctree::
-   get_started
+   **Introduction**
+   **Architecture**
+   **Block Diagram**
 
 **Introduction**
 
@@ -17,6 +19,8 @@ requirement as per user required format. For this we need to develop
 core python library as core component of this tool following ``3GPP``
 and ``ETSI`` Standards.
 
-|Architecture Diagram|    :width: 300px
+**Block Diagram**
+
+|Architecture Diagram|   :width: 300px
 
 .. |Architecture Diagram| image:: /static/architecture.png
