@@ -15,5 +15,4 @@ Data Generation is Desktop application used to generate data for GSM USIM and ES
 
 We have some requirements from this tool like we need data as per user requirement as per user required format. For this we need to develop core python library as core component of this tool following `3GPP` and `ETSI` Standards.
 
-![Architecture Diagram](/static/architecture.png)
-:width:`400px`
+![Architecture Diagram](/static/architecture.png) :width:`300px`

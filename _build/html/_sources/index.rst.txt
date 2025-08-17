@@ -17,8 +17,6 @@ requirement as per user required format. For this we need to develop
 core python library as core component of this tool following ``3GPP``
 and ``ETSI`` Standards.
 
-.. figure:: /static/architecture.png
-   :width: 400px
+|Architecture Diagram|    :width: 300px
 
-   Architecture Diagram
-
+.. |Architecture Diagram| image:: /static/architecture.png
