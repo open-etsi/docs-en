@@ -16,4 +16,4 @@ We have some requirements from this tool like we need data as per user requireme
 
 **Block Diagram**
 
-![Architecture Diagram](/static/architecture.png):width:`300px`
+![Architecture Diagram](/static/architecture.png)
