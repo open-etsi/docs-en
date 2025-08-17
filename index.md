@@ -1,9 +1,9 @@
 # Data Generation 
 
 ````toc
-**Introduction**
-**Architecture**
-**Block Diagram**
+Introduction
+Architecture
+Block Diagram
 ````
 
 **Introduction**
