@@ -1,6 +1,9 @@
 # Data Generation 
 
 ````toc
+:maxdepth: 2
+:numbered:
+
 Introduction
 Architecture
 Block Diagram
